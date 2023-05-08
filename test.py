@@ -1,6 +1,1 @@
-print("Testpython")
-print("Testpython")
-print("Testpython")
-print("Testpython")
-print("Testpython")
-print("Testpython")
+print("New update")
