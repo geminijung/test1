@@ -1,1 +1,1 @@
-print("New update")
+print("New update now")
